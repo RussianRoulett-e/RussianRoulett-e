@@ -1,4 +1,18 @@
-![crimes](https://img.shields.io/badge/crimes🦇-33,550-800000?style=for-the-badge)
+<div align="center">
+  <img src="https://img.shields.io/badge/crimes🦇-33,550-800000?style=for-the-badge"/>
+</div>
+
+
+
+<h1 align="center">
+  <a href="https://kannmorii.atabook.org/" style="color:#800000; text-decoration:none;">
+   ╋━ ֆɨɢռ 🦇 
+  </a>
+</h1>
+
+
+INFP/ISTP
+
 
 
 
