@@ -16,16 +16,15 @@
   <tr>
     About
     <td style="padding-right:15px;">
-      <b style="color:#800000;
-      <span style="color:#aaa;
-      <i>“Bird of hermes is my name”</i>
+      <b style="color:#800000;"color:#aaa;
+     
+  <i>“Bird of hermes is my name”</i>
     </td>
-
-A
+    A
     <td>
       <a href="https://kannmorii.atabook.org">
-        <img src="https://raw.githubusercontent.com/RussianRoulett-e/RussianRoulett-e/main/a5b46e261903c8bd90208c5c3d3a8bd1 (1).jpg" 
-             width="190" 
+        <img src="9fc5d25d935dc284656ecba8a45025d0 (1).jpg" 
+             width="180" 
              style="border-radius:10px;"/>
       </a>
     </td>
@@ -35,8 +34,8 @@ A
 
 
 
-<div align="center">
-  <img src="4fea1cb6-8b68-4df9-9658-2001005da922.png" width="120" style="margin-top:140px;"/>
+<div align="left">
+  <img src="4fea1cb6-8b68-4df9-9658-2001005da922.png" width="118" style="margin-top:140px;"/>
 </div>
 
 
