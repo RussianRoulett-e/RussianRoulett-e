@@ -1,6 +1,6 @@
 const client_id = process.env.e3775a8b821d449f960ccbf7b09c935a;
-const client_secret = process.env.eb3629c70e6042848358db9914476c01;
-const refresh_token = process.env.AQAfWBa0w1waUmPPFz-25hjdkBVGmGasuOFlj5FtkF058ac4PcL8ALARbyoH8eLEKf1SlZePOQ1kCXfTrB9eFulT4wWVkpNgL1CM4TzuYpF1bxFd41AJ5N3Sx_LQaXCyFSU-S0aMHUGibOV4s2ifhO1YwD3SHMsPx42-jEmOaMIl5Zcmc6-e1e8Lj3N3YadByHooaTPacYXPvQu-ZcrAc;
+const client_secret = process.env.e3775a8b821d449f960ccbf7b09c935a;
+const refresh_token = process.env.AQBJeDKRZgbZHY4bkOiatkbrGRRFSlbomdzCA9gQQKbkSWsZQfiLOAIPow4-WjPh71nHsiSyL4VPzWOCuqyj5Md0my_14Q49NWpaA79gXTz8Ox5RO1keCqMWPFN2VWheiKU;
 
 const basic = Buffer.from(`${client_id}:${client_secret}`).toString("base64");
 
@@ -31,6 +31,33 @@ export default async function handler(req, res) {
     },
   });
 
-  const data = await nowPlaying.json();
-  res.status(200).json(data);
-      }
+  if (nowPlaying.status === 204 || nowPlaying.status > 400) {
+    res.setHeader("Content-Type", "image/svg+xml");
+    return res.send(`<svg width="400" height="120">
+      <text x="10" y="60" fill="gray">Not playing anything</text>
+    </svg>`);
+  }
+
+  const song = await nowPlaying.json();
+
+  const title = song.item.name;
+  const artist = song.item.artists.map(a => a.name).join(", ");
+  const cover = song.item.album.images[0].url;
+
+  res.setHeader("Content-Type", "image/svg+xml");
+  res.send(`
+  <svg width="500" height="150" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .title { fill: #800000; font-size: 16px; font-weight: bold; }
+      .artist { fill: #ccc; font-size: 14px; }
+    </style>
+
+    <!-- Cover -->
+    <image href="${cover}" x="10" y="10" height="130" width="130"/>
+
+    <!-- Text -->
+    <text x="160" y="60" class="title">${title}</text>
+    <text x="160" y="90" class="artist">${artist}</text>
+  </svg>
+  `);
+    }
