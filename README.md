@@ -3,15 +3,21 @@
 </div>
 
 
-
-<h1 align="center">
-  <a href="https://kannmorii.atabook.org/" style="color:#800000; text-decoration:none;">
-   ╋━ ֆɨɢռ 🦇 
+<p>
+  Me! me! me!
+  <a href="https://kannmorii.atabook.org">
+    <img src="4fea1cb6-8b68-4df9-9658-2001005da922.png" width="100"/>
   </a>
-</h1>
+  Sakmadik
+</p>
 
 
-<div align="right">
+
+
+
+
+
+<div align="center">
   <img src="4fea1cb6-8b68-4df9-9658-2001005da922.png" width="120" style="margin-top:-140px;"/>
 </div>
 
