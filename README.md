@@ -8,7 +8,7 @@
   <a href="https://kannmorii.atabook.org">
     <img src="4fea1cb6-8b68-4df9-9658-2001005da922.png" width="100"/>
   </a>
-  Sakmadik
+  ʂıɠŋ.ıɬ.
 </p>
 
 
