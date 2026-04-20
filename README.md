@@ -26,7 +26,7 @@
     <td style="padding-right:15px;">
       <b style="color:#800000;"color:#aaa;
      
-  <i>“Bird of hermes is my name”</i>
+  <i>“I'ᗰ ᗩ ᗪOG? YOᑌ'ᖇE ᗪOG ᖴOOᗪ.”</i>
     </td>
     A
     <td>
