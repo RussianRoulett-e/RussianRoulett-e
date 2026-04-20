@@ -40,22 +40,54 @@
 </table>
 
 
-<p align="center">
-  <a href="https://x.com/R1dsan820m0">
-    <img src="Screenshot_2026_0420_201456.jpg" width="150"/>
-  </a>
-  <a href="https://github.com/tembluudud">
-    <img src="cff4a944129a92b9a81fb9d9921dfdc1.jpg" width="150"/>
-  </a>
-  <a href="https://github.com/VersaillesBrainrot">
-    <img src="IMG-20260420-WA0046.jpg" width="150"/>
-  </a>
-</p>
+<table width="100%" cellspacing="0" cellpadding="10">
 
-<p align="center">
-   my gang~📢🔥
-</p>
+  <!-- ROW 1 -->
+  <tr>
+    <td width="60%">
+      <h3>“Baobei🌹”</h3>
+      <p>
+        Tap! →
+      </p>
+    </td>
+    <td align="center">
+      <a href="https://x.com/R1dsan820m0">
+        <img src="Screenshot_2026_0420_201456.jpg" width="140" style="border-radius: 12px;">
+      </a>
+    </td>
+  </tr>
 
+  <!-- ROW 2 -->
+  <tr>
+    <td width="60%">
+      <h3>My king👑</h3>
+      <p>
+        Tap →
+      </p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tembluudud">
+        <img src="cff4a944129a92b9a81fb9d9921dfdc1.jpg" width="140" style="border-radius: 12px;">
+      </a>
+    </td>
+  </tr>
+
+  <!-- ROW 3 -->
+  <tr>
+    <td width="40%">
+      <h3>Twin🎸</h3>
+      <p>
+        Tap →
+      </p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/VersaillesBrainrot">
+        <img src="IMG-20260420-WA0046.jpg" width="140" style="border-radius: 12px;">
+      </a>
+    </td>
+  </tr>
+
+</table>
 
 
 
