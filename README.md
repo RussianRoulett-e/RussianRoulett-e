@@ -12,9 +12,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://russian-roulett-e-gype.vercel.app//api/spotify"/>
-</p>
+
 
 
 
