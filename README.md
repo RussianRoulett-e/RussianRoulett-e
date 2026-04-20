@@ -40,6 +40,27 @@
 </table>
 
 
+<p align="center">
+  <a href="https://x.com/R1dsan820m0">
+    <img src="Screenshot_2026_0420_201456.jpg" width="150"/>
+  </a>
+  <a href="https://github.com/tembluudud">
+    <img src="cff4a944129a92b9a81fb9d9921dfdc1.jpg" width="150"/>
+  </a>
+  <a href="https://github.com/VersaillesBrainrot">
+    <img src="IMG-20260420-WA0046.jpg" width="150"/>
+  </a>
+</p>
+
+<p align="center">
+   my gang~📢🔥
+</p>
+
+
+
+
+
+
 
 
 <div align="left">
