@@ -43,6 +43,15 @@
 </table>
 
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pmawiglpusym64tlgx4lxfbh2a&cover_image=true&theme=novatorem&show_offline=false&background_color=542121&interchange=false&profanity=false&bar_color=a68585&bar_color_cover=false">
+  </a>
+</p>
+
+
+
+
 <table align="center" cellspacing="15">
   <tr>
 ⚚
