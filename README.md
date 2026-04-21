@@ -6,6 +6,9 @@
 </div>
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=39&pause=1000&color=680F2A&width=430&lines=%E2%9C%99+%E2%8B%86%E0%BC%BA++Y%CF%83%CF%85+%CA%82%D4%8B%CE%B1%CA%85%CA%85+DIE+;%E2%9C%99+%E2%8B%86%E0%BC%BA+Y%CF%83%CF%85+%CA%82%D4%8B%CE%B1%CA%85%CA%85+DIE)](https://git.io/typing-svg)
+
+
 <p>
   Me! me! me!
   <a href="https://kannmorii.atabook.org">
