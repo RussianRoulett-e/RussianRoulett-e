@@ -1,12 +1,22 @@
 ![divider](https://capsule-render.vercel.app/api?type=waving&height=60&color=0:2b0000,100:8b0000)
 
 
+
+
+<br>
+
+<div align="center">
+  <img src="9b536264-4084-4a66-868d-5ef2bce3536d.png" width="1000%" />
+</div>
+
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/crimes🦇-33,550-800000?style=for-the-badge"/>
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=39&pause=1000&color=720000&width=430&lines=%E2%9C%99+%E2%8B%86%E0%BC%BA++Y%CF%83%CF%85+%CA%82%D4%8B%CE%B1%CA%85%CA%85+DIE+;%E2%9C%99+%E2%8B%86%E0%BC%BA+Y%CF%83%CF%85+%CA%82%D4%8B%CE%B1%CA%85%CA%85+DIE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=39&pause=1000&color=720000&width=440&lines=%E2%9C%99+%E2%8B%86%E0%BC%BA++Y%CF%83%CF%85+%CA%82%D4%8B%CE%B1%CA%85%CA%85+DIE+;%E2%9C%99+%E2%8B%86%E0%BC%BA+Y%CF%83%CF%85+%CA%82%D4%8B%CE%B1%CA%85%CA%85+DIE)](https://git.io/typing-svg)
 
 
 <p>
@@ -55,7 +65,7 @@
 
 <table align="center" cellspacing="15">
   <tr>
-⚚
+♱
     <td align="center">
       <a href="https://x.com/R1dsan820m0">
         <img src="Screenshot_2026_0420_201456.jpg" width="110" style="border-radius: 10px;"><br>
@@ -63,14 +73,16 @@
       </a>
     </td>
 
-  ⚚  <td align="center">
+  <br>
+  
+  ♱  <td align="center">
       <a href="https://github.com/tembluudud">
         <img src="cff4a944129a92b9a81fb9d9921dfdc1.jpg" width="110" style="border-radius: 10px;"><br>
         <sub>My king</sub>
       </a>
     </td>
 
-  ⚚  <td align="center">
+  ♱  <td align="center">
       <a href="https://github.com/VersaillesBrainrot">
         <img src="IMG-20260420-WA0046.jpg" width="110" style="border-radius: 10px;"><br>
         <sub>twin</sub>
@@ -98,4 +110,9 @@ INFP/ISTP
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZvd3JzanQ4YzN6emZwNHQzdHlsYzVzNDV2dGk0ZzhhMHBieWlrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yrrxsyvqwsuzm8ERYl/giphy.gif" alt="Bottom Line" width="300%" />
+</div>
+
+
+<div align="center">
+  <img src="ChatGPT Image 21 Apr 2026, 16.46.12.png" width="100%" />
 </div>
