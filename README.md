@@ -15,10 +15,6 @@
 </p>
 
 
-![divider](https://capsule-render.vercel.app/api?type=waving&height=60&color=0:2b0000,100:8b0000)
-
-
-
 
 
 
@@ -49,6 +45,8 @@
   </a>
 </p>
 
+
+![divider](https://capsule-render.vercel.app/api?type=waving&height=60&color=0:2b0000,100:8b0000)
 
 
 
