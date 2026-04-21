@@ -1,3 +1,6 @@
+![divider](https://capsule-render.vercel.app/api?type=waving&height=60&color=0:2b0000,100:8b0000)
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/crimes🦇-33,550-800000?style=for-the-badge"/>
 </div>
@@ -12,7 +15,7 @@
 </p>
 
 
-
+![divider](https://capsule-render.vercel.app/api?type=waving&height=60&color=0:2b0000,100:8b0000)
 
 
 
